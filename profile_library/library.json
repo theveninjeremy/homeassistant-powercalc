@@ -16133,14 +16133,14 @@
           "standby_power": 0.22,
           "id": "LM-MT-C2-A19-9W",
           "manufacturer": "lightinginside",
-          "updated_at": "2026-08-08T13:54:51",
+          "updated_at": "2026-08-08T14:18:22",
           "max_power": 8.58,
           "sub_profile_count": 0,
           "color_modes": [
             "color_temp",
             "hs"
           ],
-          "hash": "6312c9a9c63d5a4f17f99c5f63f26b4d"
+          "hash": "76a45bc5669b9c7d861d9f2ba533c766"
         }
       ],
       "device_types": [
